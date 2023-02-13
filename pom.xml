@@ -122,7 +122,7 @@
         <zookeeper.version>3.6.3</zookeeper.version>
         <zkclient.version>0.11</zkclient.version>
         <slf4j.version>1.7.36</slf4j.version>
-        <log4j.version>2.17.2</log4j.version>
+        <log4j.version>2.19.0</log4j.version>
         <quartz.version>2.3.2</quartz.version>
         <jaeger.version>1.8.1</jaeger.version>
         <opentracing.version>0.33.0</opentracing.version>
